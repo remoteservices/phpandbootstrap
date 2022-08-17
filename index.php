@@ -1,4 +1,4 @@
 <?php
-echo "Hello!<br>";
-echo "Welcome to Developer News<br>";
+echo "Hello! My name is Hershel McClain<br>";
+echo "I am a Jr. Developer<br>";
 echo "This is phpandbootstrap<br>";
